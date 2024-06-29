@@ -1,0 +1,99 @@
+# Request 1
+POST http://localhost:8080/index/document
+Content-Type: application/json
+
+{
+  "description": "High-quality leather wallet",
+  "price": 49.99,
+  "company": "Leather Goods Co."
+}
+
+### Request 2
+POST http://localhost:8080/index/document
+Content-Type: application/json
+
+{
+  "description": "Ergonomic office chair",
+  "price": 199.99,
+  "company": "Comfort Seating Inc."
+}
+
+### Request 3
+POST http://localhost:8080/index/document
+Content-Type: application/json
+
+{
+  "description": "Stainless steel kitchen knife set",
+  "price": 89.99,
+  "company": "Culinary Essentials"
+}
+
+### Request 4
+POST http://localhost:8080/index/document
+Content-Type: application/json
+
+{
+  "description": "Wireless noise-cancelling headphones",
+  "price": 299.99,
+  "company": "SoundTech"
+}
+
+### Request 5
+POST http://localhost:8080/index/document
+Content-Type: application/json
+
+{
+  "description": "Smartphone with 128GB storage",
+  "price": 699.99,
+  "company": "Tech Innovations"
+}
+
+### Request 6
+POST http://localhost:8080/index/document
+Content-Type: application/json
+
+{
+  "description": "Electric standing desk",
+  "price": 399.99,
+  "company": "WorkSmart Furniture"
+}
+
+### Request 7
+POST http://localhost:8080/index/document
+Content-Type: application/json
+
+{
+  "description": "4K Ultra HD Smart TV",
+  "price": 999.99,
+  "company": "Vision Electronics"
+}
+
+### Request 8
+POST http://localhost:8080/index/document
+Content-Type: application/json
+
+{
+  "description": "Eco-friendly water bottle",
+  "price": 19.99,
+  "company": "Green Living"
+}
+
+### Request 9
+POST http://localhost:8080/index/document
+Content-Type: application/json
+
+{
+  "description": "Running shoes with arch support",
+  "price": 89.99,
+  "company": "Fitness Gear"
+}
+
+### Request 10
+POST http://localhost:8080/index/document
+Content-Type: application/json
+
+{
+  "description": "Bluetooth portable speaker",
+  "price": 59.99,
+  "company": "AudioPro"
+}
