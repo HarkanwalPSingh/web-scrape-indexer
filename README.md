@@ -22,4 +22,4 @@ Open http://localhost:8080/swagger-ui/index.html
 
 Play around the endpoints
 
-![alt text](image.png)
+![alt text](image-1.png)

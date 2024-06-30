@@ -29,7 +29,7 @@ class NewsController(private val newsService: NewsService) {
     return newsService.findAll()
   }
 
-  @GetMapping("/search/headlines")
+  @GetMapping("/search")
   fun searchNewsByHeadlines(@RequestParam headline: String): List<NewsItem> {
     return newsService.searchHeadline(headline)
   }
