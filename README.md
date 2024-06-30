@@ -13,8 +13,11 @@ cd indexer
 ### Run Crawler
 In a separate terminal
 ```bash
-cd scrapper/simple-scrapper
+cd scrapper
+poetry shell
+cd simple-scrapper
 scrapy crawl news-spider
+deactivate
 ```
 
 ## Validate
